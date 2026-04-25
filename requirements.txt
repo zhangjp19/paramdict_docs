@@ -80,6 +80,8 @@ packaging==26.2
     #   sphinx
 pandocfilters==1.5.1
     # via nbconvert
+paramdict==1.0.0
+    # via -r requirements.in
 platformdirs==4.9.6
     # via jupyter-core
 pygments==2.20.0
