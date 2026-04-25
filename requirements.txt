@@ -120,10 +120,13 @@ sphinx==7.3.7
     #   nbsphinx
     #   sphinx-basic-ng
     #   sphinx-copybutton
+    #   sphinx-design
     #   sphinx-inline-tabs
 sphinx-basic-ng==1.0.0b2
     # via furo
 sphinx-copybutton==0.5.2
+    # via -r requirements.in
+sphinx-design==0.7.0
     # via -r requirements.in
 sphinx-inline-tabs==2025.12.21.14
     # via -r requirements.in
